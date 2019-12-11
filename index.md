@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Basic Qt Calculator](https://github.com/cscederborg/basicQtCalculator)
-<img src="images/calculator.png"/>
+<img src="images/calculator.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
