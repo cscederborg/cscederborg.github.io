@@ -1,4 +1,6 @@
 ## Portfolio
+<br>
+<div>I am currently a junior at Seattle Pacific University majoring in computer science.</div>
 
 ---
 
@@ -11,10 +13,12 @@
 ---
 [Ruby Parser](https://github.com/cscederborg/rubyParser)
 <br>
+<div>Lexical and Syntactical Analyzer for a given Grammar</div>
 
 ---
 [Hash Table Text Analyzer](https://github.com/cscederborg/hashTextAnalyzer)
 <br>
+<div>Program to analyze total number of each word of each letter using a hash function</div>
 
 
 
