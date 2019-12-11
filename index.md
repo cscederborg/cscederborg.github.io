@@ -16,7 +16,6 @@
 [Hash Table Text Analyzer](https://github.com/cscederborg/hashTextAnalyzer)
 <br>
 
----
 
 
 
