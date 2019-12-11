@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Basic Qt Calculator](https://github.com/cscederborg/basicQtCalculator)
+<img src="images/calculator.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
