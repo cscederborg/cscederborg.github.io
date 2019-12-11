@@ -2,18 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Class Projects 
 
 [Basic Qt Calculator](https://github.com/cscederborg/basicQtCalculator)
+<br>
 <img src="images/calculator.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
