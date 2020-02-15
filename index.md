@@ -16,6 +16,16 @@
 <div>Lexical and Syntactical Analyzer for a given Grammar</div>
 
 ---
+[Prolog Cartesian Points](https://github.com/cscederborg/prologThreePoints)
+<br>
+<div>Receives input from Ruby Parser and checks the attributes of the Points</div>
+
+---
+[Scheme Angle Calculation](https://github.com/cscederborg/schemeThreePoints)
+<br>
+<div>Receives input from Ruby Parser and calculates the angles of triangles made by the points</div>
+
+---
 [Hash Table Text Analyzer](https://github.com/cscederborg/hashTextAnalyzer)
 <br>
 <div>Program to analyze total number of each word of each letter using a hash function</div>
