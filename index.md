@@ -1,6 +1,6 @@
 ## Portfolio
 <br>
-<div>I am currently a senior at Seattle Pacific University pursuing a B.S. in Computer Science and a B.A. in Honors Liberal Arts.</div>
+<div>I am currently a senior at Seattle Pacific University pursuing a B.S. in Computer Science and a B.A. in Honors Liberal Arts. Expected Graduation Date: June 2021.</div>
 
 ---
 
