@@ -4,6 +4,13 @@
 
 ---
 
+### Internship Work
+<div>LightSys Technology Services. August 2020-January 2021</div>
+<br>
+<div>Greater detail found on my LinkedIn</div>
+
+---
+
 ### Class Projects 
 
 [Basic Qt Calculator](https://github.com/cscederborg/basicQtCalculator)
