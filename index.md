@@ -1,6 +1,6 @@
 ## Portfolio
 <br>
-<div>I am currently a junior at Seattle Pacific University majoring in computer science.</div>
+<div>I am currently a senior at Seattle Pacific University pursuing a B.S. in Computer Science and a B.A. in Honors Liberal Arts.</div>
 
 ---
 
